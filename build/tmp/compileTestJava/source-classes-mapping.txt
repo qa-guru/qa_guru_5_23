@@ -1,0 +1,15 @@
+io/github/eroshenkoam/allure/ManualMember.java
+ io.github.eroshenkoam.allure.ManualMember
+io/github/eroshenkoam/allure/AutoMember.java
+ io.github.eroshenkoam.allure.AutoMember
+io/github/eroshenkoam/allure/Component.java
+ io.github.eroshenkoam.allure.Component
+io/github/eroshenkoam/allure/AllureFeatures.java
+ io.github.eroshenkoam.allure.AllureFeatures
+ io.github.eroshenkoam.allure.AllureFeatures$Issues
+ io.github.eroshenkoam.allure.AllureFeatures$Milestones
+ io.github.eroshenkoam.allure.AllureFeatures$PullRequests
+io/github/eroshenkoam/allure/Tags.java
+ io.github.eroshenkoam.allure.Tags
+io/github/eroshenkoam/allure/RegionsTest.java
+ io.github.eroshenkoam.allure.RegionsTest

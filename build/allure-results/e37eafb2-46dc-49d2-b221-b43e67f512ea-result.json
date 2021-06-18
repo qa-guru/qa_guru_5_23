@@ -1,0 +1,57 @@
+{
+  "name": "Проверка работы секции Tags",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1623951765745,
+  "stop": 1623951765798,
+  "uuid": "e37eafb2-46dc-49d2-b221-b43e67f512ea",
+  "historyId": "678859c09a4e4c08c4d1ed6a1c1bd78e",
+  "fullName": "io.github.eroshenkoam.allure.RegionsTest.testngTags",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "web"
+    },
+    {
+      "name": "tag",
+      "value": "qaguru"
+    },
+    {
+      "name": "host",
+      "value": "Artems-MacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "53513@Artems-MacBook-Pro.local.Test worker(19)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "io.github.eroshenkoam.allure.RegionsTest"
+    },
+    {
+      "name": "testClass",
+      "value": "io.github.eroshenkoam.allure.RegionsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testngTags"
+    },
+    {
+      "name": "suite",
+      "value": "io.github.eroshenkoam.allure.RegionsTest"
+    }
+  ],
+  "links": []
+}
